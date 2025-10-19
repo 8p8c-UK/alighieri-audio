@@ -1,4 +1,4 @@
-# Alighieri: Open Source AES67/RAVENNA Audio Network
+# Alighieri: Open Source AES67/Dante/RAVENNA Audio Network
 
 Professional-grade network audio system (18+20 channels, <1ms latency) powered by INDUSTRIAL setup framework. Replaces $15K Dante/RAVENNA systems for $600.
 
